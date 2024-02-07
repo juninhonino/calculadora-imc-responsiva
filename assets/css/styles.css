@@ -167,7 +167,7 @@ body{
 }
 
 @media screen and (max-width: 1024){
-    img{
+    #img{
         display: none;
     }
 }
